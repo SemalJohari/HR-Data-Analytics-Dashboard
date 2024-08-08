@@ -1,4 +1,4 @@
-##Data Analytics Dashboard using Power BI
+## Data Analytics Dashboard using Power BI
 
 This is a Power BI project which provides various insights of the employees for a hypothetical company. Datasets used have been added to the repository.
 The demonstration of the dashboard as well as its static representation in the form of a PDF have also been added to this repository.
